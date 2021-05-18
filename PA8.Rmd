@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 8"
-author: "Eli Balderas"
+author: "Eli, Kevin, Amie, Tommy, Rachael"
 date: "5/18/2021"
 output: html_document
 ---
