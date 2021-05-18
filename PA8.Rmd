@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 8"
-author: "Eli, Kevin, Amie, Tommy, Rachael"
+author: "Eli Balderas, Kevin Cooke, Amie Boyle, Tommy Andrews, Rachael Ryan"
 date: "5/18/2021"
 output: html_document
 ---
